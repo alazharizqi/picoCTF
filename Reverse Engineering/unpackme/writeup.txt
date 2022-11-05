@@ -1,0 +1,12 @@
+- Description :
+Can you get the flag?
+Reverse engineer this Python program.
+
+My solution :
+first download the program.
+at the code, i notice 2 variable payload and key_str.
+i try to decode string from key_str by using base64 decode but still not found the flag.
+then i try again to decode the payload and the result has same.
+and then i notice at the line 11, plain variable decrypt the payload.
+so i try to print plain and get the message b"\npw = input('What\\'s the password? ')\n\nif pw == 'batteryhorse':\n  print('picoCTF{175_chr157m45_cd82f94c}')\nelse:\n  print('That password is incorrect.')\n\n"
+so at the message there is if statement which check condition the pw is true, then the flag will be print.

@@ -1,0 +1,4 @@
+first downlolad the packet capture.
+i use wireshark to analyze the package.
+open wireshare and choose package.
+click number 4 and you will see the flag

@@ -1,0 +1,8 @@
+- Description
+Morse code is well known. Can you decrypt this?
+Download the file here.
+Wrap your answer with picoCTF{}, put underscores in place of pauses, and use all lowercase.
+
+- My solution
+i use morse code decoder to solve the problem
+then the result is WH47 H47H 90D W20U9H7

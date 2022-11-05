@@ -1,0 +1,13 @@
+- Description
+A second message has come in the mail, and it seems almost identical to the first one. Maybe the same thing will work again.
+Download the message here.
+
+- My solution
+i use decode online tools to decrypt the message.
+then the result
+
+CTFs (short for capture the flag) are a type of computer security competition. Contestants are presented with a set of challenges which test their creativity, technical (and googling) skills, and problem-solving ability. Challenges usually cover a number of categories, and when solved, each yields a string (called a flag) which is submitted to an online scoring service. CTFs are a great way to learn a wide array of computer security skills in a safe, legal environment, and are hosted and played by many security groups around the world for fun and practice. For this problem, the flag is: picoCTF{FR3JU3NCY_4774CK5_4R3_C001_7AA384BC}
+
+i try to submit the flag but the flag still incorrect.
+then i assume the flag there is typo in J.
+so i change to Q and submit again then it work.

@@ -1,0 +1,6 @@
+user = cultiris
+password = cvpbPGS{P7e1S_54I35_71Z3}
+
+I use rot 13 to decrypt the password
+
+picoCTF{C7r1F_54V35_71M3}

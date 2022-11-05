@@ -1,0 +1,4 @@
+download file from website.
+open the file.
+then ctrl + f and search picoCTF.
+you will find the flag.

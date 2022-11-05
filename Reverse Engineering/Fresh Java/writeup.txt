@@ -1,0 +1,8 @@
+- Description
+Can you get the flag?
+Reverse engineer this Java program.
+
+- My solution
+When i download the program format code is .class not .java
+then i try to decompile class using java decompiler online.
+finally i got the flag in if statement.

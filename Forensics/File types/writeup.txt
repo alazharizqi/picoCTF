@@ -1,0 +1,1 @@
+cat flag | xxd -r -p 

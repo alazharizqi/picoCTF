@@ -1,0 +1,14 @@
+- Description :
+Can you get the flag?
+Run this Python program in the same directory as this encrypted flag.
+
+- My solution :
+first download python program and encrypted flag.
+at the code, there is condition if( user_pw == "ak98" + \
+                   "-=90" + \
+                   "adfjhgj321" + \
+                   "sleuth9000"):
+copy all the string at if statement ak98-=90adfjhgj321sleuth9000
+then run the program in terminal python patchme.flag.py -d flag.txt.enc
+input password as string above
+and then you get the flag.

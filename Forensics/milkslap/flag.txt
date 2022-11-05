@@ -1,0 +1,1 @@
+b1,r,lsb,xy         .. b1,r,msb,xy         .. b1,g,lsb,xy         .. b1,g,msb,xy         .. b1,b,lsb,xy         .. text: "picoCTF{imag3_m4n1pul4t10n_sl4p5}\n"
